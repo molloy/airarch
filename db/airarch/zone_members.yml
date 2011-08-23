@@ -1,0 +1,307 @@
+--- 
+zone_members_MI_043: 
+  zoneable_id: "931624400"
+  created_at: 2011-08-23 11:19:20
+  updated_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_SD_032:
+  zoneable_id: "615306087"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_WA_021:
+  zoneable_id: "414569975"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_WI_010:
+  zoneable_id: "103680699"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_AZ_044:
+  zoneable_id: "948208802"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_IL_033:
+  zoneable_id: "625629523"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NH_022:
+  zoneable_id: "426832442"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NC_011:
+  zoneable_id: "177087202"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_KS_045:
+  zoneable_id: "969722173"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MO_034:
+  zoneable_id: "653576146"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_AR_023:
+  zoneable_id: "471470972"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NV_012:
+  zoneable_id: "179539703"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_DC_001:
+  zoneable_id: "6764998"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_ID_046:
+  zoneable_id: "982433740"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NE_035:
+  zoneable_id: "673350891"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_PA_024:
+  zoneable_id: "471711976"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_HI_013:
+  zoneable_id: "199950338"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_UT_002:
+  zoneable_id: "17199670"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_VT_047:
+  zoneable_id: "989115415"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_DE_036:
+  zoneable_id: "721598219"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_RI_025:
+  zoneable_id: "474001862"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_OK_014:
+  zoneable_id: "248548169"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_LA_003:
+  zoneable_id: "37199952"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MT_048:
+  zoneable_id: "999156632"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_TN_037:
+  zoneable_id: "726305632"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MD_026:
+  zoneable_id: "480368357"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_FL_015:
+  zoneable_id: "267271847"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_VA_004:
+  zoneable_id: "41111624"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MN_049:
+  zoneable_id: "1032288924"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NJ_038:
+  zoneable_id: "750950030"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_OH_027:
+  zoneable_id: "485193526"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_CA_016:
+  zoneable_id: "276110813"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "4"
+  zoneable_type: State
+zone_members_ND_005:
+  zoneable_id: "51943165"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_ME_050:
+  zoneable_id: "1055056709"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_IN_039:
+  zoneable_id: "769938586"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_TX_028:
+  zoneable_id: "525212995"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_OR_017:
+  zoneable_id: "298914262"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_WY_006:
+  zoneable_id: "66390489"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_AL_051:
+  zoneable_id: "1061493585"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_IA_040:
+  zoneable_id: "825306985"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MS_029:
+  zoneable_id: "532363768"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_KY_018:
+  zoneable_id: "308473843"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NM_007:
+  zoneable_id: "69729944"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_GA_041:
+  zoneable_id: "876916760"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_CO_030:
+  zoneable_id: "536031023"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_MA_019:
+  zoneable_id: "385551075"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_CT_008:
+  zoneable_id: "69870734"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_NY_042:
+  zoneable_id: "889445952"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_SC_031:
+  zoneable_id: "597434151"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_AK_020:
+  zoneable_id: "403740659"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State
+zone_members_WV_009:
+  zoneable_id: "91367981"
+  created_at: 2011-08-23 11:19:20
+  created_at: 2011-08-23 11:19:20
+  zone_id: "3"
+  zoneable_type: State

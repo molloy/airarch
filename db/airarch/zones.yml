@@ -1,0 +1,13 @@
+--- 
+zones_003: 
+  name: USA except CA
+  created_at: 2011-08-23 11:19:10
+  updated_at: 2011-08-23 11:19:10
+  id: "3"
+  description: USA - all states except CA
+zones_004: 
+  name: USA only CA
+  created_at: 2011-08-23 11:19:00
+  updated_at: 2011-08-23 11:19:00
+  id: "4"
+  description: USA - only CA
