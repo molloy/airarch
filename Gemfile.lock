@@ -130,6 +130,8 @@ GEM
       will_paginate (= 3.0.pre2)
     spree_dash (0.60.1)
       spree_core (= 0.60.1)
+    spree_editor (0.50.1)
+      spree_core (>= 0.40.0)
     spree_promo (0.60.1)
       spree_core (= 0.60.1)
     spree_sample (0.60.1)
@@ -152,3 +154,4 @@ DEPENDENCIES
   mysql2 (~> 0.2.11)
   rails (= 3.0.9)
   spree (~> 0.60.1)
+  spree_editor

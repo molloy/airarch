@@ -31,3 +31,4 @@ gem 'mysql2', '~> 0.2.11'
 # end
 
 gem 'spree', '~> 0.60.1'
+gem 'spree_editor'
