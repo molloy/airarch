@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/pero-ict-solutions/spree-homepager.git
+  revision: 01e479a17604d0971cf0a841e1226c2df4ef19cf
+  tag: 0.60
+  specs:
+    spree-homepager (0.50.0)
+      spree_core
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -154,4 +162,5 @@ DEPENDENCIES
   mysql2 (~> 0.2.11)
   rails (= 3.0.9)
   spree (~> 0.60.1)
+  spree-homepager!
   spree_editor

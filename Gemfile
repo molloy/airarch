@@ -32,3 +32,4 @@ gem 'mysql2', '~> 0.2.11'
 
 gem 'spree', '~> 0.60.1'
 gem 'spree_editor'
+gem "spree-homepager", :git => "git://github.com/pero-ict-solutions/spree-homepager.git", :tag => '0.60', :require => "homepager"
